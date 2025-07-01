@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 We have 3 org
-https://github.com/ams-www
-https://github.com/Linux-jam
-https://github.com/ams-design
+[Web Team](https://github.com/ams-www)
+[Software Team](https://github.com/Linux-jam)
+[Design Team](https://github.com/ams-design)
